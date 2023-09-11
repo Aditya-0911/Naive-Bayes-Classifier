@@ -1,5 +1,7 @@
 # Naive Bayes Classifier
 
+![classification-working-image](https://content.codecademy.com/programs/machine-learning/regression_v_classification/classification.gif)
+
 - [Naive Bayes Theorem](#naive-bayes-theorem)
 - [How to Use](#how-to-use)
 - [Code Explanation](#code-explanation)
